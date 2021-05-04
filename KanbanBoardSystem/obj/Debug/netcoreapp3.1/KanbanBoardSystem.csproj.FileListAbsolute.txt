@@ -1,0 +1,13 @@
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.csprojAssemblyReference.cache
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.AssemblyInfoInputs.cache
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.AssemblyInfo.cs
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.csproj.CoreCompileInputs.cache
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.exe
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.deps.json
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.runtimeconfig.json
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.runtimeconfig.dev.json
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.dll
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.pdb
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.dll
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.pdb
+C:\Users\PAULA SALAZAR\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.genruntimeconfig.cache
