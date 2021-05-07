@@ -20,7 +20,6 @@ namespace KanbanBoardSystem
             for (int i = 0; i < toDoList.Count; i++)
             {
                 Console.WriteLine(toDoList[i]);
-
             }
 
             Console.WriteLine("Enter your task: ");
@@ -44,6 +43,7 @@ namespace KanbanBoardSystem
 
                 }
             }
+            Console.WriteLine("--------------------------------------");
             {
                 if (task.Equals("a"))
                 {
