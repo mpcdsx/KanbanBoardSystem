@@ -31,22 +31,42 @@ namespace KanbanBoardSystem
             {
 
                 if (task.Equals("a"))
-                    {
-                    Console.WriteLine( requested + " is now working in progress.");
-                    }
+                {
+                    Console.WriteLine(requested + " is now working in progress.");
+                }
                 else if (task.Equals("b"))
-                    {
-                    Console.WriteLine( requested + " is finally done, congrats!");
-                    }
+                {
+                    Console.WriteLine(requested + " is finally done, congrats!");
+                }
                 else
-                    {
-                        Console.WriteLine("Invalid selection.");
+                {
+                    Console.WriteLine("Invalid selection.");
 
-                    }
                 }
             }
-               
+            {
+                if (task.Equals("a"))
+                {
+                    Console.WriteLine("WIP:");
+                    Console.WriteLine(requested);
+                }
+                else if (task.Equals("b"))
+                {
+                    Console.WriteLine("Done Tasks:");
+                    Console.WriteLine(requested);
+                }
+                else
+                {
+                    Console.WriteLine("Error");
+                }
+            }
+           
+
+
+
 
         }
 
     }
+
+}
